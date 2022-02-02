@@ -1,0 +1,17 @@
+*{
+    font-family: 'Bungee', cursive;
+    background-color: #FFEEAD;
+    text-align: center;
+}
+
+header{
+    font-size: 40px;
+    color: #96CEB4;
+}
+.red-font{
+    color: #D9534F;
+}
+li{
+    list-style-position: inside;
+    color: #FFAD60;
+}
